@@ -5,6 +5,7 @@ BitTorrent stuff on the internet, like games, movies, books, and other things, g
 - [Game / 游戏](./games)
 - [Program / 程序](./programs)
 - [Books / 书籍](./books)
+- [Videos / 视频](./videos.md)
 
 I've tried a few file sharing apps, and they all have their pros and cons. After weighing my options, I decided to go with BitTorrent.
 
