@@ -14,5 +14,5 @@
 
 ## BitTorrent 相关
 
-- BitTorrent V2 支持：[BiglyBT](https://www.biglybt.com/)
+- [BitTorrent V2](pages/BitTorrent-v2.md) 支持：[BiglyBT](https://www.biglybt.com/)
 - 获取最新的 Trackers: [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
