@@ -1,13 +1,13 @@
 # awesome-torrents
 
-BitTorrent stuff on the internet, like games, movies, books, and other things, get updated all randomly and stuff.
+互联网上的 BitTorrent 内容，如游戏、电影、书籍和其他内容，随机更新。
 
-- [Game / 游戏](./games.md)
-- [Program / 程序](./programs.md)
-- [Books / 书籍](./books.md)
-- [Videos / 视频](./videos.md)
+- [游戏](./games.md)
+- [程序](./programs.md)
+- [书籍](./books.md)
+- [视频](./videos.md)
 
-I've tried a few file sharing apps, and they all have their pros and cons. After weighing my options, I decided to go with BitTorrent.
+试过 Resilio Sync 和 IPFS，但都不太好用：
 
-- Resilio Sync is convenient for syncing files, but its program optimization is poor, and it often hogs a lot of CPU power.
-- IPFS tends to lose files easily (important files require double backup), and file management is really inconvenient.
+- Resilio Sync 程序代码写的太渣，经常性的卡死。
+- IPFS 容易丢失文件，而且不易于管理。
