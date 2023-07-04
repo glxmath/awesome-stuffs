@@ -1,3 +1,3 @@
 # Movies
 
-- [色戒](./movies/Se-jie.md)
+- [色戒](./Se-jie.md)
