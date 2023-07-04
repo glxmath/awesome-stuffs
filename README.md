@@ -1,6 +1,6 @@
 # awesome-torrents
 
-互联网上的 BitTorrent 内容，如游戏、电影、书籍和其他内容，随机更新。
+互联网上的 BitTorrent 内容，如游戏、电影、书籍和其他内容，随机更新，长期做种。
 
 - [游戏](./games.md)
 - [程序](./programs.md)
